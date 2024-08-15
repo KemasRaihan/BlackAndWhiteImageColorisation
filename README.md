@@ -1,7 +1,7 @@
 # BlackAndWhiteImageColorisation
-A machine learning program that converts a black & white image i.e grayscale image to a colourised image. The Caffe colourization model, from Rich Zhang, was used for this program. 
+A machine learning program that converts a black & white image i.e grayscale image to a colourised image. The Caffe colourization model, developed by <a href="[url](https://github.com/richzhang)">Rich Zhang</a>, was used for this program. 
 
-Inspired by GeeksForGeeks: https://www.geeksforgeeks.org/black-and-white-image-colorization-with-opencv-and-deep-learning/
+Inspired by  <a href="[url](https://www.geeksforgeeks.org/black-and-white-image-colorization-with-opencv-and-deep-learning/))">GeeksForGeeks</a> 
 
 The prototxt and kernel files can be downloaded from: https://github.com/richzhang/colorization/tree/caffe/models
 
